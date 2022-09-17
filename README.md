@@ -1,7 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%" />
-</div>  
-  
+
+<h1 align="center">< Hello World! ></h1>
 
 ### <div align="center">I'm Daniel, a full-time full-stack freelance developer 🚀</div>  
   
