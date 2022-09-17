@@ -1,2 +1,2 @@
-<h1>Hi I´m Daniel Hernández</h1>
+<h1 align="center">Hi 👋, I'm Daniel!</h1>
 
