@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Hernández</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielhrndz4" alt="danielhrndz4" /></a> </p>
-
-- 🔭 I’m currently working on [Electronica 2001](https://electronica2001es.com/)
+- 🔭 I’m currently working on [Electronica 2001](https://electronica2001es.com/) and [Producciones 2001](https://producciones2001.com/)
 
 - 💬 Ask me about **React JS, Express JS, Node JS, PHP**
 
