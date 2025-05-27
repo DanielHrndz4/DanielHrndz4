@@ -88,15 +88,13 @@ Computer Engineering student and Academic Excellence Scholar with extensive expe
 ### **Producciones 2001 Event Platform**
 - PHP8 backend with React frontend
 - Real-time ticket sales system
-- Integrated payment gateways (PayPal, Stripe)
 
 ### **Jobi Online Visa System**
 - MERN stack with Next.js SSR
 - Multi-tenant architecture
-- Automated document processing with Python
 
 ### **Todovisa Global Platform**
-- Microservices architecture (Go + Node.js)
+- Microservices architecture (Node.js)
 - Geo-distributed MongoDB clusters
 - Azure Functions for background processing
 
